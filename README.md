@@ -16,6 +16,6 @@ I'm a very curious person so I like to keep learning new things about my career 
 
 - 💻 Member of a programming club
 
-- 🟦 My Linkedin profile
+- 🟦 My [Linkedin](https://www.linkedin.com/in/sergio-malek-gomez-zavala-89995a25a/) profile 
 
 
