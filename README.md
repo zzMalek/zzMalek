@@ -9,5 +9,9 @@ I'm a very curious person so I like to keep learning new things about my career 
 
 ---
 ### 🧑‍💻 About Me:
+
+- 👨‍🎓 Currently studying computer systems engineering
+
+- 🐬 Currently learning about Docker
   
 
