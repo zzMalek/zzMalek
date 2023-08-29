@@ -3,6 +3,7 @@
   <img src = "https://media.giphy.com/media/RPwrO4b46mOdy/giphy.gif" width ="200"/>
   <h1 align ="center">Hi, I'm Sergio Malek</h1>
   <h3 align ="center">I'm a person who likes to look for different ways to do my work for achieving the best quality possible.
+    
 I'm a very curious person so I like to keep learning new things about my career everyday.</h3>
   </div>
 
