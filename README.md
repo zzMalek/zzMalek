@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<div id = "header" align = "center"
+  <img src = "https://media.giphy.com/media/RPwrO4b46mOdy/giphy.gif" width ="200"/>
+  </div>
 
 <!--
 **zzMalek/zzMalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
