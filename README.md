@@ -6,6 +6,8 @@
     
 I'm a very curious person so I like to keep learning new things about my career everyday.</h3>
   </div>
+---
 
+### 🧑‍💻 About Me:
   
 
